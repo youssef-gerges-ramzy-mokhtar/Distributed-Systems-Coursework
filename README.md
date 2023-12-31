@@ -6,13 +6,16 @@
   - Ensuring Fault Tolerance on the Server Side by employing multiple Server Replicas
 
 # Languages & Technologies Used: (to be contd...)
-  - rmiRegistry
-	- JGroups
-  - Client
-	- Server
-	- Api-Gateway
+ - Java
+ - JGroups
+ - RmiRegistry
 
 # How to run the Project: (to be contd...)
+  - rmiRegistry
+  - JGroups
+  - Client
+  - Server
+  - Api-Gateway
   - Clone the Project
   - Explain the Folder Structure
   - What should be installed on the machine of the person running the code (JGroups already present in the repo)
